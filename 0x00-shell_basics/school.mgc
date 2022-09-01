@@ -1,3 +1,4 @@
- 0 =SCHOOLSchool dataSchool =SCHOOLSchool
- data!:mime School
+#!/bin/bash
+0 string SCHOOL School data
+!:mime School
  
